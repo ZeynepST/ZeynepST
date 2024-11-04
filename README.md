@@ -1,5 +1,5 @@
 <h1>Hi, I'm Zeynep!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
-<p>Welcome to my page!  </br>I'm a current computer science student at Stony Brook Unviversity 💻. 
+<p>Welcome to my page!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </br>I'm a current computer science student at Stony Brook Unviversity 💻. 
 </br> I love to explore and learn about all things ML and Software Development 🧠.
 </br>I’m currently working on creating time series forecasting models 🔭.
 </p>
