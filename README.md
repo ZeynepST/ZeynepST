@@ -1,4 +1,4 @@
-<h2>Zeynep Taşoğlu</h2>
+<h2>Zeynep Tasoglu</h2>
 <p>
   Software Engineer · AI & Data Science · CS @ Stony Brook '26<br/>
   Previously: SWE Intern @ Brookhaven National Lab · ML Fellow @ Cornell Tech (Break Through Tech AI)<br/>
